@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429204290870",
+    "project_id": "arrow-puzzle-cf550",
+    "storage_bucket": "arrow-puzzle-cf550.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429204290870:android:e7c932b6b55aa675588797",
+        "android_client_info": {
+          "package_name": "com.apextheorygame.amaze.go.arrow.key"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12AuMsFryNbW6_o0NbD4Buq2KXiIup1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
